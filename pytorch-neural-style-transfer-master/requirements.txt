@@ -1,0 +1,18 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+opencv-python>=4.7.0
+Pillow>=9.0.0
+streamlit>=1.28.0
+tqdm>=4.64.0
+matplotlib>=3.8.0
+
+# Optional dependencies for better performance
+# Uncomment if you have CUDA support
+# torch-audio>=2.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
