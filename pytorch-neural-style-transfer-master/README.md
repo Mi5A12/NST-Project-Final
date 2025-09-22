@@ -222,10 +222,6 @@ pytorch-neural-style-transfer-master/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **PyTorch** team for the deep learning framework
@@ -233,23 +229,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **VGG** authors for the pre-trained models
 - **U²-Net** authors for background removal capabilities
 - **OpenCV** team for computer vision tools
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pytorch-neural-style-transfer-master/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/pytorch-neural-style-transfer-master/discussions)
-- **Email**: your.email@example.com
-
-## 🔮 Future Enhancements
-
-- [ ] Model pruning for even faster inference
-- [ ] Real-time video style transfer
-- [ ] 3D garment modeling integration
-- [ ] Advanced fabric simulation
-- [ ] Mobile app development
-- [ ] Cloud deployment options
-
----
 
 **Made with ❤️ for the fashion and AI communities**
